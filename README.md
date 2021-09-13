@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Igorhk11
+- 👋 Hi, I’m Igor Hadji Kotarov
 - 👀 I’m interested in Web Devolpment and SEO.
 - 🌱 I’m currently learning JQuery.
 - 💞️ I’m looking to collaborate on making cool new projects.
